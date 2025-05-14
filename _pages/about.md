@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "材料2402的神秘资源分享后花园"
 author_profile: true
 redirect_from: 
   - /about/
